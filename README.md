@@ -1,8 +1,4 @@
-<img data-importer="image" align="right" height="200" src="https://cdn.discordapp.com/attachments/1459899928770773083/1473943442760667218/file_00000000996c720897bb83e1d6a70474.jpg?ex=6aa64fcd&is=6aa4fe4d&hm=99e376735719e1eb2b15e3717e44c0c68cad106bc57e4d3dd5308583cdb9d4c9"  />
-
-###
-
-<h1 data-importer="text" align="left">Hey 👋 I'm hadi</h1>
+<h1 data-importer="text" align="left">Hey, I'm hadi</h1>
 
 ###
 
@@ -16,7 +12,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">👾 Creating bugs since 2023<br>📚 BS CS Freshie at NUST<br>📬 Reach me by email</p>
+<p data-importer="text" align="left">👾 Creating bugs since 2023<br>📚 BS CS Freshie at NUST<br>📬 Reach me by email or twitter</p>
 
 ###
 
@@ -42,7 +38,7 @@
   <a href="https://www.linkedin.com/in/hadi-qureshi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/cwyptski" target="_blank">
+  <a href="https://x.com/hadicxr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="hadiqureshi.cxtr@gmail.com" target="_blank">
@@ -54,6 +50,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hadicxr/hadicxr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
