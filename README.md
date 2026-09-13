@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">👾 Creating bugs since 2023<br>📚 BS CS Freshie at NUST<br>📬 Reach me by email or twitter</p>
+<p data-importer="text" align="left">👾 Creating bugs since 2023<br>📚 BSCS'30 at NUST<br>📬 Reach me by email or twitter</p>
 
 ###
 
